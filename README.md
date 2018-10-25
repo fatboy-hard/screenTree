@@ -1,7 +1,7 @@
 # screenTree
 仿京东的地址选择界面
 # 效果
-![image](https://github.com/wzq21590105/screenTree/edit/master/images/nongshalie.jpg)
+![image](https://github.com/wzq21590105/screenTree/tree/master/images/demo.jpg)
 # 使用方法
 将screenSource 放入自己的工程
 ```
